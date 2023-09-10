@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a computer science graduate with a strong background in data science. Connect with me here, on [Twitter (X?)](https://x.com/cade_crandall), or via email (ccrandall <at> mines <dot> edu.
+
+*-Cade* 🤠
 
 <!--
 **cadecrandall/cadecrandall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
