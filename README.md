@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a computer science graduate with a strong background in data science. Connect with me here, on [Twitter (X?)](https://x.com/cade_crandall), or via email (ccrandall [at] mines [dot] edu.
+I'm a computer science graduate with a strong background in data science. Connect with me here, on [Twitter (X?)](https://x.com/cade_crandall), or via email (ccrandall [at] mines [dot] edu).
 
 *-Cade* 🤠
 
